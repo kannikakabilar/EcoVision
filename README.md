@@ -6,12 +6,7 @@
   
 </p>
 
-<h3 padding="20px">Reduce Carbon Footprint in every Software Development Life-Cycle</h3>
-
-<h3>It is: </h3>
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0DF702&random=false&width=455&lines=EcoFriendly;Innovative;CI%2FCD+Integration;AI+Framework:+Random+Forest+Algorithm;all+in+one+tool.;EcoVision" alt="Typing SVG" />
-</p>
+<h3 align="center">Reduce Carbon Footprint in every Software Development Life-Cycle</h3>
 
 <h2>Team Members</h2>
 
