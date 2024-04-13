@@ -1,8 +1,13 @@
 # Kyndryl GreenSpark Hackathon 2024: Team EcoVision
-<h3 align="center">Reduce Carbon Footprint in Software Development Life-Cycle with: <h1 align="center">EcoVision</h1></h3>
-<p align="center">
-  <img align="center" src="https://github.com/kannikakabilar/EcoVision/blob/main/imgs/EcoVision_logo.png" width="60px">
+
+<p align="center" display="inline">
+  <img alt="Light" src="imgs/Ecovision_logo2.png" width="50%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  
 </p>
+
+<h3 padding="20px">Reduce Carbon Footprint in every Software Development Life-Cycle</h3>
+
 <h3>It is: </h3>
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0DF702&random=false&width=455&lines=EcoFriendly;Innovative;CI%2FCD+Integration;AI+Framework:+Random+Forest+Algorithm;all+in+one+tool.;EcoVision" alt="Typing SVG" />
@@ -25,14 +30,22 @@
 
 <h2>Developer's Interface</h2>
 
-[![IMAGE ALT TEXT](https://github.com/kannikakabilar/KanCakes-EcommerceSite/blob/main/screenshots/Screen%20Shot%202023-02-26%20at%201.51.02%20PM.png)](https://www.youtube.com/watch?v=uaBB5PYc2yY "KanCakes Demo")
-
-[Click Here For Live Demo](https://www.youtube.com/watch?v=uaBB5PYc2yY)
+[![IMAGE ALT TEXT](https://github.com/kannikakabilar/EcoVision/blob/main/imgs/ui1.png)](https://www.youtube.com/watch?v=uaBB5PYc2yY "KanCakes Demo")
 
 <p align="center">
-  <img alt="Light" src="screenshots/Screen Shot 2023-02-26 at 4.08.33 PM.png" width="45%">
+  <img alt="Light" src="imgs/ui2.png" width="90%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="screenshots/Screen Shot 2023-02-26 at 4.08.40 PM.png" width="45%">
+</p>
+
+<h2>Application Dashboard</h2>
+
+[![IMAGE ALT TEXT](https://github.com/kannikakabilar/EcoVision/blob/main/imgs/ui4.png)](https://www.youtube.com/watch?v=uaBB5PYc2yY "KanCakes Demo")
+
+
+<p align="center">
+  <img alt="Light" src="imgs/ui8.png" width="90%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="imgs/ui5.png" width="90%">
 </p>
 
 <br>
@@ -77,3 +90,31 @@ EcoVision introduces several innovative approaches and novel features to revolut
 Overall, EcoVision represents a groundbreaking solution that leverages advanced technologies and interdisciplinary expertise to drive sustainable innovation in software development. By introducing novel approaches to environmental impact assessment and optimization, EcoVision empowers organizations to achieve their sustainability goals while delivering value to customers and stakeholders. <br>
 
 </p>
+
+<h2>Hackathon Rounds & Results</h2>
+
+<h3>Round 1</h3>
+
+<p align="center">
+  <img alt="Light" src="imgs/EcoVision_JudgesRound1.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="imgs/EcoVision_WinRound1.png" width="45%">
+</p>
+
+<h3>Round 2</h3>
+
+<p align="center">
+  <img alt="Light" src="imgs/EcoVision_JudgesRound2.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="imgs/EcoVision_WinRound2.png" width="45%">
+</p>
+
+<h3>Round 3</h3>
+
+<p align="center">
+  <img alt="Light" src="imgs/EcoVision_JudgesRound3.jpg" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="imgs/HackathonAwards.png" width="45%">
+</p>
+
+![Quote](https://github.com/kannikakabilar/EcoVision/blob/main/imgs/GreenSpark_Hackathon_Rounds.jpg)
