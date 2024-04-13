@@ -23,6 +23,19 @@
 
 <br>
 
+<h2>Developer's Interface</h2>
+
+[![IMAGE ALT TEXT](https://github.com/kannikakabilar/KanCakes-EcommerceSite/blob/main/screenshots/Screen%20Shot%202023-02-26%20at%201.51.02%20PM.png)](https://www.youtube.com/watch?v=uaBB5PYc2yY "KanCakes Demo")
+
+[Click Here For Live Demo](https://www.youtube.com/watch?v=uaBB5PYc2yY)
+
+<p align="center">
+  <img alt="Light" src="screenshots/Screen Shot 2023-02-26 at 4.08.33 PM.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="screenshots/Screen Shot 2023-02-26 at 4.08.40 PM.png" width="45%">
+</p>
+
+<br>
 <h2>Hackathon Theme</h2>
 <p>Create a solution to measure the carbon footprint of the software we are building to enable developers to write more efficient code.  This capability can be easily integrated into the CI/CD pipeline to continuously measure and reduce the environmental impact of our code. </p>
 
