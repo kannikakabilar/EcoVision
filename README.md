@@ -7,6 +7,20 @@
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0DF702&random=false&width=455&lines=EcoFriendly;Innovative;CI%2FCD+Integration;AI+Framework:+Random+Forest+Algorithm;all+in+one+tool.;EcoVision" alt="Typing SVG" />
 </p>
+
+<h2>Team Members</h2>
+
+- Cloud Architect: Praveen Kumar Madhava Rao 
+- Enterprise Architect: Pedro Soares
+- Software Architect: Kavitha Suresh Kumar
+- Software Engineer: Kannika Kabilar
+- Software Engineer: Kavya Singh
+- Project Management: Adrianna Kocyba-Kostecka
+- DevOps Specialist: Iwona Kwiek
+- UX Designer: Chandan Bhat
+- UX Designer: BhavyaShree Mucherla
+- Technical Associate: Dominika Fargasova
+
 <br>
 
 <h2>Hackathon Theme</h2>
