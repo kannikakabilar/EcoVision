@@ -26,7 +26,6 @@
 - UX Designer: BhavyaShree Mucherla
 - Technical Associate: Dominika Fargasova
 
-<br>
 
 <h3>Group Picture of Ecovision Members and Hackathon Mentors</h3>
 
@@ -34,6 +33,11 @@
   <img alt="Light" src="imgs/ecovision_group_pic.png" width="90%">
 &nbsp; &nbsp; &nbsp; &nbsp;
 </p>
+
+
+<h3>Videos</h3>
+
+[EcoVision CI CD Demo](https://youtu.be/mhM3wMlbcMw) &nbsp; &nbsp; &nbsp; &nbsp; [EcoVision Plugin Demo](https://youtu.be/kJNtRpPznaE) &nbsp; &nbsp; &nbsp; &nbsp; [EcoVision Celebratory Call](https://youtu.be/-bm3H5hz96k)
 
 <br>
 
