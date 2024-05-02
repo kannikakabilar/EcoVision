@@ -1,0 +1,133 @@
+- What is it?
+ EcoVision is a solution that aims to optimize and minimize the carbon footprint throughout the software development lifecycle. 
+
+- How does it work?
+It is part of the Internal Developer Platform (IDP) and is designed to monitor, analyze, and optimize the environmental impact of software development processes. EcoVision integrates real-time monitoring, predictive analytics, and optimization recommendations to empower development teams to reduce carbon emissions, energy consumption, and resource usage. It is integrated into the CI/CD pipeline for real-time monitoring and optimization of code changes. EcoVision also provides recommendations to developers to write more efficient code and reduce environmental impact.
+
+- How is AI Logical Framework used?
+EcoVision also has an AI Logical Framework that leverages Random Forest models to strategically optimize pipeline execution, leading to informed decision-making, reduced energy consumption, and enhanced sustainability efforts.
+
+
+
+
+- CI/CD pipeline
+EcoVision is seamlessly integrated into the CI/CD pipeline to enable real-time monitoring and optimization of code changes.
+
+	- Code Change Mapping: EcoVision maps the changed portion of code with log files to prevent potential failures in the continuous delivery pipeline
+
+	- Carbon Footprint Determination: It determines the carbon emissions impact for each transaction and displays it to the user and merchant
+
+	- Efficient Code Recommendations: Developers receive recommendations within their IDE through a lightweight plugin empowered by AI/ML to write more efficient code
+
+	- Pipeline Stage Identification: EcoVision identifies required pipeline stages in the DevOps pipeline based on the code change and facilitates skipping unwanted stages, thus measuring and estimating the carbon footprint and energy saved by this action
+
+	- Real-time Monitoring and Data Collection: It dynamically analyzes runtime data to assess the environmental impact as developers commit code changes, using probes to collect data on method execution times, memory allocations, and CPU utilization without significantly impacting code execution speed
+
+	- Visualization: EcoVision implements real-time monitoring, carbon footprint prediction, and optimization recommendation visualization components, ensuring seamless integration with the frontend UI and utilizing JavaScript frameworks for enhanced interactivity
+
+	- Performance Indicator: A performance indicator quantifies the environmental impact of each code change suggested by the optimization engine, and the percentage change in this indicator is captured and visualized using a Business Intelligence (BI) tool
+
+
+
+
+- How does EcoVision determine the carbon emissions impact?
+EcoVision determines the carbon emissions impact for each transaction by mapping the changed portion of code with log files to prevent potential failures in the continuous delivery pipeline. 
+
+	- Real-time Monitoring: EcoVision integrates with the CI/CD pipeline to enable continuous measurement of the carbon emission and environmental impact as developers commit code changes
+
+	- AI/ML Recommendations: Developers receive recommendations within their IDE through a lightweight plugin empowered by AI/ML to write more efficient code that would minimize the environmental impact
+
+	- Pipeline Optimization: EcoVision identifies required pipeline stages based on the code change and facilitates skipping unwanted stages, thus measuring and estimating the carbon footprint and energy saved by this action
+
+	- Energy Emission Score (EES): EcoVision calculates an EES through the stages of the DevOps pipeline, providing environmental insights and visualizations at the organizational level through tools like Kyndryl Bridge
+(Kyndryl Bridge: Real-time visibility into the health of business-critical applications and proactive actions to keep applications healthy)
+
+This system not only helps in reducing the carbon footprint but also drives operational efficiency by optimizing resource usage and reducing energy consumption, ultimately enhancing the organization's bottom line
+
+
+	
+
+- Tell me more about the AI/ML lightweight plugin in EcoVision?
+The AI/ML lightweight plugin in EcoVision is a significant component that enables developers to write more efficient code by providing recommendations directly within the Integrated Development Environment (IDE).
+
+	- Integration with IDE: The plugin integrates with popular IDEs, such as Visual Studio, to provide real-time recommendations to developers as they write code
+
+	- AI/ML Recommendations: Leveraging AI/ML algorithms, the plugin analyzes the code to identify potential inefficiencies and suggests optimizations to reduce the environmental impact
+
+	- Real-time Monitoring: It monitors CPU utilization and other performance metrics to provide insights into the code's environmental footprint
+
+	- EcoVision AI Logical Framework: The plugin uses the EcoVision AI Logical Framework, which includes Random Forest models, to strategically optimize pipeline execution and enhance sustainability efforts
+
+	- Dynamic Analysis: EcoVision's plugin employs dynamic runtime analysis to detect ESG-related issues in software code, ensuring optimization for environmental sustainability
+
+	- Customizable Indicators: The plugin allows for customizable ESG monitoring, enabling granular tagging at the CPU and core level, contributing to carbon emission reduction
+
+
+
+- Tell me more about EcoVision AI Logical Framework and how it optimizes the pipeline execution
+The EcoVision AI Logical Framework is a crucial part of EcoVision's integration into the DevSecOps pipeline, aimed at improving energy efficiency and optimizing pipeline execution.
+
+	- AI-Driven Efficiency: The framework leverages Random Forest models, a powerful ensemble learning technique known for its high accuracy and flexibility in handling classification tasks. This AI-driven approach strategically optimizes pipeline execution, leading to informed decision-making and reduced energy consumption
+
+	- Real-time Monitoring and Optimization: EcoVision is seamlessly integrated into the CI/CD pipeline, allowing for real-time monitoring and optimization of code changes. Instrumentation frameworks insert probes or hooks into the codebase during the build and deployment process, enabling runtime profiling without significantly impacting code execution speed
+
+	- Visualization and Interaction: The framework ensures that real-time monitoring, carbon footprint prediction, and optimization recommendation visualization components are seamlessly integrated with the frontend UI. It utilizes JavaScript frameworks like Chart.js, D3.js, or Plotly.js for enhanced interactivity and data visualization
+
+	- Environmental Impact Analysis: EcoVision calculates the environmental impact of each pipeline stage that could potentially be affected by a code change. It considers factors such as energy consumption and the carbon intensity of electricity used in the computing infrastructure, providing recommendations to skip unnecessary stages
+
+	- ESG Score Calculation: The framework includes an ESG score calculation, quantifying the environmental impact of each code change suggested by the optimization engine. The percentage change in this indicator is captured and visualized using Business Intelligence tools
+
+	- Dynamic Analysis for ESG Issues: EcoVision employs dynamic runtime analysis to detect ESG-related issues in software code, ensuring optimization for environmental sustainability. This is part of the broader EcoSync framework that integrates with existing monitoring tools and third-party technologies to pull ESG information at a granular level
+
+
+
+- How does EcoVision calculate the ESG score?
+EcoVision calculates the Environmental, Social, and Governance (ESG) score by employing a formula that quantifies the environmental impact of code optimizations. The ESG score is determined by considering various factors such as the carbon intensity of electricity and the energy consumed during the execution of each stage in the DevOps pipeline. 
+
+	- ESG Score Calculation: EcoVision assigns an ESG score to each recommended stage in the pipeline. This score is calculated by multiplying the carbon intensity of electricity by the energy consumed during the execution of each stage
+
+	- Total Weight ESG Metric: The ESG metric formula used by EcoVision is as follows: Total Weight ESG = Total Weight / (Weight CPU x ΔCPU + Weight Energy x ΔEnergy + Weight Carbon x ΔCarbon). This formula helps quantify the environmental impact of code optimizations
+
+	- ESG Metrics Collection: EcoVision also integrates with a common plug-and-play framework called EcoSync, which collects ESG metrics from a multi-varied technological and business environment. This data is then used to provide ESG reports, predictive insights, and implementable advice to enhance ESG investment or score
+
+	- Granular ESG Tagging: EcoSync, as part of EcoVision, allows for granular ESG monitoring, enabling tagging at the CPU and core level, which contributes to carbon emission reduction
+
+The ESG score is a crucial indicator of the environmental impact of software development activities and is used to guide developers in making more sustainable coding decisions.
+
+
+
+
+
+- EcoVision Components
+
+	- Real-time Monitoring and Data Collection: EcoVision dynamically analyzes runtime data to assess the environmental impact as developers commit code changes. It interacts with system APIs to monitor CPU utilization, memory allocation, disk I/O, and network activity in real-time
+
+	- Carbon Footprint Prediction: Leveraging Random Forest Regression, EcoVision predicts the carbon footprint of code changes, providing developers with insights into the environmental impact of resource-intensive operations
+
+	- Optimization Recommendations: Based on collected data and analysis, EcoVision identifies specific areas within the code that contribute most to the carbon footprint and provides recommendations for optimization
+
+	- Visualization: EcoVision implements real-time monitoring, carbon footprint prediction, and optimization recommendation visualization components, ensuring seamless integration with the frontend UI and utilizing JavaScript frameworks for enhanced interactivity
+
+	- AI Logical Framework: The EcoVision AI Logical Framework aims to improve energy efficiency within DevSecOps pipelines by leveraging Random Forest models to strategically optimize pipeline execution
+
+	- User Journey Guide: EcoVision provides a user journey guide that outlines system requirements, registration and authentication, installation of plugins, and training and onboarding for users, especially developers and data scientists
+
+	- EcoSync Framework: EcoSync is a dynamic plug-and-play framework that integrates with existing monitoring tools and third-party technologies to pull ESG information at a granular level, harmonizing this data into actionable insights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
