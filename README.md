@@ -39,7 +39,7 @@
 
 <h2>Developer's Interface</h2>
 
-[![IMAGE ALT TEXT](https://github.com/kannikakabilar/EcoVision/blob/main/imgs/ui1.png)]
+![IMAGE ALT TEXT](https://github.com/kannikakabilar/EcoVision/blob/main/imgs/ui1.png)
 
 <p align="center">
   <img alt="Light" src="imgs/ui2.png" width="90%">
@@ -48,7 +48,7 @@
 
 <h2>Application Dashboard</h2>
 
-[![IMAGE ALT TEXT](https://github.com/kannikakabilar/EcoVision/blob/main/imgs/ui4.png)]
+![IMAGE ALT TEXT](https://github.com/kannikakabilar/EcoVision/blob/main/imgs/ui4.png)
 
 
 <p align="center">
