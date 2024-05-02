@@ -41,6 +41,12 @@
 
 <br>
 
+<h2>Brief Overview</h2>
+
+Ecovision executes a python a script everytime a developer commits to an application's repository. It uses GitHub Actions to listen when a commit occurs, and in the python script, it takes the developer's commit message and utilizes Open AI's API to predict which stages of the CICD pipeline needs to be executed. For example: simple content change in a html file does not need to trigger the execution of unit tests stage in the CICD pipeline. It executes only the necessary stages in the CICD pipeline which in return through granular tagging at the cpu's core level provides the estimation on energy consumption and the carbon intensity of electricity used in the computing infrastructure. These metrics are then displayed for data visualization through a front-end UI. Ecovision also consists of a plugin tool for IDEs, providing recommendations on how to write sustainable and eco-friendly code. This tool significantly helps with Kyndryl's goal of achieving net zero carbon-emission as an IT services company with developers constantly performing thousands of commits for each application.
+
+<br>
+
 <h2>Developer's Interface</h2>
 
 ![IMAGE ALT TEXT](https://github.com/kannikakabilar/EcoVision/blob/main/imgs/ui1.png)
