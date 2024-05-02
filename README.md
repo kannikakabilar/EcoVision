@@ -8,6 +8,11 @@
 
 <h3 align="center">Reduce Carbon Footprint in every Software Development Life-Cycle</h3>
 
+<p align="center">
+  <img alt="Light" src="imgs/ecovision1st.png" width="90%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+</p>
+
 <h2>Team Members</h2>
 
 - Cloud Architect: Praveen Kumar Madhava Rao 
@@ -20,6 +25,15 @@
 - UX Designer: Chandan Bhat
 - UX Designer: BhavyaShree Mucherla
 - Technical Associate: Dominika Fargasova
+
+<br>
+
+<h3>Group Picture of Ecovision Members and Hackathon Mentors</h3>
+
+<p align="center">
+  <img alt="Light" src="imgs/ecovision_group_pic.png" width="90%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+</p>
 
 <br>
 
@@ -113,3 +127,10 @@ Overall, EcoVision represents a groundbreaking solution that leverages advanced 
 </p>
 
 ![Quote](https://github.com/kannikakabilar/EcoVision/blob/main/imgs/GreenSpark_Hackathon_Rounds.jpg)
+
+<h3>Finale Results</h3>
+
+<p align="center">
+  <img alt="Light" src="imgs/hackathon_podium.png" width="90%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+</p>
