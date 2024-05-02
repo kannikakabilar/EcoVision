@@ -1,4 +1,4 @@
-# Kyndryl GreenSpark Hackathon 2024: Team EcoVision
+# Kyndryl GreenSpark Hackathon 2024: EcoVision (1st place)
 
 <p align="center" display="inline">
   <img alt="Light" src="imgs/Ecovision_logo2.png" width="50%">
